@@ -1,0 +1,34 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+#pokemonList {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+body {
+  margin: 0;
+}
+
+.pokemon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 16.6%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 96px;
+}
+
+.pokemon-types {
+  display: flex;
+  justify-content: space-between;
+}

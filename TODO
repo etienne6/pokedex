@@ -1,0 +1,18 @@
+1. Create pokecards (react component) - [x]
+
+Information on the pokecard is as follows:
+- Pokemon picture
+- pokemon name
+- pokemon type
+- pokemon number??
+
+2. Organize the css for a pokecard and the layout [x]
+3. Output a whole generation of pokemon [x]
+  i. Create a pokemon list component
+4. Understand how webpack works
+5. fix css layout for a whole generation []
+6. figure out api for errors [x]
+7. Imrpove styles - as suggested by dom
+8. Upload to github
+9. create a readme
+10. Look into rendering multiple regions
